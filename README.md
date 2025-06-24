@@ -2,6 +2,8 @@
 
 <p align="center">https://hashnode.com/@pixelknight</p>
 
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Loading...<!-- /CAT_FACT -->
+
 <h3>📍&nbsp&nbspAbout me </h3>
  
 - 👨‍🎓 BTech CSE sophmore at Indian Institute Of Information Technology , Jabalpur
