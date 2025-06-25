@@ -2,7 +2,7 @@
 
 <p align="center">https://hashnode.com/@pixelknight</p>
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
