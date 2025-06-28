@@ -2,7 +2,7 @@
 
 <p align="center">https://hashnode.com/@pixelknight</p>
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A form of AIDS exists in cats.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** In an average year, cat owners in the United States spend over $2 billion on cat food.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
