@@ -2,7 +2,7 @@
 
 <p align="center">https://hashnode.com/@pixelknight</p>
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A tiger's stripes are like fingerprints<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Like humans, cats tend to favor one paw over another<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
