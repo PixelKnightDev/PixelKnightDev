@@ -38,9 +38,10 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelknightdev&theme=radical&show_icons=true" />
+![](https://github-readme-stats.vercel.app/api?username=PixelKnightDev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PixelKnightDev&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelKnightDev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelknightdev&layout=compact&theme=radical" />
 
 
  
