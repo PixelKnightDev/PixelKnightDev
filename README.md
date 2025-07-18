@@ -2,7 +2,7 @@
 
 <p align="center">https://hashnode.com/@pixelknight</p>
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
