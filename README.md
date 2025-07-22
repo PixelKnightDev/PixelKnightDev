@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I am Pratyush Yadav✌️</h1>
 
 <p align="center">https://hashnode.com/@pixelknight</p>
+<p align="center">https://pixelknightdev.github.io</p>
+
 
 <!-- CAT_FACT -->**🐱 Daily Cat Fact:** In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.<!-- /CAT_FACT -->
 
