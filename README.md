@@ -4,7 +4,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats are the world's most popular pets, outnumbering dogs by as many as three to one<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
