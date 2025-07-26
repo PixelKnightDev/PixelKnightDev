@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I am Pratyush Yadav✌️</h1>
 
-<p align="center">https://hashnode.com/@pixelknight</p>
 <p align="center">https://pixelknightdev.github.io</p>
 
 
