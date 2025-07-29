@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats come back to full alertness from the sleep state faster than any other creature.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A cat's brain is more similar to a man's brain than that of a dog.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
