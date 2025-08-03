@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Kittens who are taken along on short, trouble-free car trips to town tend to make good passengers when they get older. They get used to the sounds and motions of traveling and make less connection between the car and the visits to the vet.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats step with both left legs, then both right legs when they walk or run.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
