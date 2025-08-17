@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The life expectancy of cats has nearly doubled over the last fifty years.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cheetahs do not roar, as the other big cats do. Instead, they purr.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
