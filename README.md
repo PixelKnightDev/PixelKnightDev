@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A sexually-active feral tom-cat owns" an area of about three square miles and ""sprays"" to mark his territory with strong smelling urine."""<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
