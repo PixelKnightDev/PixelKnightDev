@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Ginger tabby cats can have freckles around their mouths and on their eyelids!<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
