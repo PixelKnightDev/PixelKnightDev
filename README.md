@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The first official cat show in the UK was organised at Crystal Palace in 1871.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats sleep for 12-16 hours a day to conserve energy for hunting! 🐱<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
