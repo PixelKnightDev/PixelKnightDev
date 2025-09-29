@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A happy cat holds her tail high and steady.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats sleep for 12-16 hours a day to conserve energy for hunting! 🐱<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
