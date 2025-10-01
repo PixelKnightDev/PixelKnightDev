@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A cat's brain is more similar to a man's brain than that of a dog.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats sleep for 12-16 hours a day to conserve energy for hunting! 🐱<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
