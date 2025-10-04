@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats have "nine lives" thanks to a flexible spine and powerful leg and back muscles<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats have supersonic hearing<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
