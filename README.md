@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:**  A cat only has the ability to move their jaw up and down, not side to side like a human can.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The average cat can jump 8 feet in a single bound, nearly six times its body length!<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
