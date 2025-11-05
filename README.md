@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cat paws act as tempetature regulators, shock absorbers, hunting and grooming tools, sensors, and more<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
