@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Not every cat gets high" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene"<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
