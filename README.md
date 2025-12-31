@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A cat has the power to sometimes heal themselves by purring. A domestic cat's purr has a frequency of between 25 and 150 Hertz, which happens to be the frequency at which muscles and bones best grow and repair themselves. <!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** According to a Gallup poll, most American pet owners obtain their cats by adopting strays.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
