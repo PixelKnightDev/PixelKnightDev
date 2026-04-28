@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
