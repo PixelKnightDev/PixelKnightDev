@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Grown cats have 30 teeth. Kittens have about 26 temporary teeth, which they lose when they are about 6 months old.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
