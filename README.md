@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Grown cats have 30 teeth. Kittens have about 26 temporary teeth, which they lose when they are about 6 months old.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
