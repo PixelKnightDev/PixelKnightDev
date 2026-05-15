@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** The name "jaguar" comes from a Native American word meaning "he who kills with one leap".<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats control the outer ear using 32 muscles; humans use 6<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
