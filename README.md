@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cat's urine glows under a black light.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** A tiger's stripes are like fingerprints<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
