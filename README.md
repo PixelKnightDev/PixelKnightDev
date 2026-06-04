@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->**🐱 Daily Cat Fact:** Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
