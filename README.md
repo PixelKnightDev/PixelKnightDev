@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats see six times better in the dark and at night than humans.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
