@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A tomcat (male cat) can begin mating when he is between 7 and 10 months old.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats are the world's most popular pets, outnumbering dogs by as many as three to one<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
