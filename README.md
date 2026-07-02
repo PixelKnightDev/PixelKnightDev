@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: 70% of your cat's life is spent asleep.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
