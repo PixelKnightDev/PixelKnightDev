@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
