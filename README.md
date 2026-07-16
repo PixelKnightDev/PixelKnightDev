@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: The richest cat is Blackie who was left £15 million by his owner, Ben Rea.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Researchers believe the word “tabby” comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
