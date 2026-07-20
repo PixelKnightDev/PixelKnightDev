@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Owning a cat is actually proven to be beneficial for your health.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats only sweat through their paws and nowhere else on their body<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
