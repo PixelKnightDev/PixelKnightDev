@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cats field of vision is about 185 degrees.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
