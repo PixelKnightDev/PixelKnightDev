@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
