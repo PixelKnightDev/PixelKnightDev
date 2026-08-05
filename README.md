@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
