@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
