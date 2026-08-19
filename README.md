@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: The largest domestic cat breed is called Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
