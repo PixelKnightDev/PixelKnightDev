@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A steady diet of dog food may cause blindness in your cat - it lacks taurine.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
