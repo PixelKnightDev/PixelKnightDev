@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Not every cat gets high" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene"<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
