@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages).<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A group of cats is called a “clowder.”<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
