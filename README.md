@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A group of cats is called a “clowder.”<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Cheetahs do not roar, as the other big cats do. Instead, they purr.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
