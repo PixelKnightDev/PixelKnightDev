@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: The way you treat kittens in the early stages of it's life will render it's personality traits later in life.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: An adult lion's roar can be heard up to five miles (eight kilometers) away.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
