@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: While many cats enjoy milk, it will give some cats diarrhea.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
