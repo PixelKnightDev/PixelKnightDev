@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: The first cat in space was a French cat named Felicette (a.k.a. “Astrocat”) In 1963, France blasted the cat into outer space. Electrodes implanted in her brains sent neurological signals back to Earth. She survived the trip.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
