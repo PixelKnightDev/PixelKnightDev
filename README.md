@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Lions are the only cats that live in groups, called prides. Every female within the pride is usually related.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: According to a Gallup poll, most American pet owners obtain their cats by adopting strays.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
