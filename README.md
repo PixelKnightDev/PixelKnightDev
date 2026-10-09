@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats must have fat in their diet because they can't produce it on their own.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats have supersonic hearing<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
