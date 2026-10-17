@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
