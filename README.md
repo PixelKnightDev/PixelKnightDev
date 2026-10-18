@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
