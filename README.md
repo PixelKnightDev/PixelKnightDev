@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Like humans, cats tend to favor one paw over another<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
