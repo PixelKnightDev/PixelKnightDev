@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats' hearing is much more sensitive than humans and dogs.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat's normal pulse is 140-240 beats per minute, with an average of 195.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
