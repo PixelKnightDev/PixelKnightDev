@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Today there are about 100 distinct breeds of the domestic cat.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
