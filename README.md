@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Abraham Lincoln loved cats. He had four of them while he lived in the White House.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A tomcat (male cat) can begin mating when he is between 7 and 10 months old.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
