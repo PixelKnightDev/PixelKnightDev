@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: A cat can jump 5 times as high as it is tall.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
