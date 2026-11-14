@@ -3,7 +3,7 @@
 <p align="center">https://pixelknightdev.github.io</p>
 
 
-<!-- CAT_FACT -->🐱 Daily Cat Fact: The cat has 500 skeletal muscles (humans have 650).<!-- /CAT_FACT -->
+<!-- CAT_FACT -->🐱 Daily Cat Fact: Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.<!-- /CAT_FACT -->
 
 <h3>📍&nbsp&nbspAbout me </h3>
  
